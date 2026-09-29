@@ -14,12 +14,7 @@ El proyecto está enfocado en la gestión de estado mediante **`useReducer`**, l
 - **TypeScript**
 - **Vite**
 - **Tailwind CSS**
-- **shadcn/ui**
-- **Lucide React**
-- **canvas-confetti**
-- **useReducer**
-- **useState**
-- **Responsive Design**
+- **HTML**
 
 ## ✨ Características
 
