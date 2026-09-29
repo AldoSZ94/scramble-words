@@ -6,7 +6,7 @@ El proyecto está enfocado en la gestión de estado mediante **`useReducer`**, l
 
 ## 🚀 Demo
 
-🔗 **Live Demo:** [Agregar enlace]
+🔗 **Live Demo:** https://scramble-words-aldosz94.netlify.app/
 
 ## 🛠️ Tecnologías utilizadas
 
